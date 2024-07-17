@@ -19,9 +19,7 @@ Git: Version control
 GitHub: Repository hosting
 Fetch API: Make API calls to a server
 Local Storage: Store data on the user's browser
-Getting Started
 
-Prerequisites
-To run this project, you need a web browser and an internet connection.
+
 
 
